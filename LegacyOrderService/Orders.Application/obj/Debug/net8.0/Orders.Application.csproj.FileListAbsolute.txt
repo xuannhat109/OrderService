@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\bin\Debug\net8.0\Orders.Application.deps.json
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\bin\Debug\net8.0\Orders.Application.dll
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\bin\Debug\net8.0\Orders.Application.pdb
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\bin\Debug\net8.0\Orders.Domain.dll
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\bin\Debug\net8.0\Orders.Domain.pdb
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.A.715EABD9.Up2Date
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.dll
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\refint\Orders.Application.dll
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\Orders.Application.pdb
+C:\Users\ADMIN\Downloads\OrdersService_FINAL_ALL\Orders.Application\obj\Debug\net8.0\ref\Orders.Application.dll
